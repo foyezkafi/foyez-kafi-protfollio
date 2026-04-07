@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  faBehance,
+  faXTwitter ,
   faFacebookF,
   faInstagram,
   faLinkedin,
@@ -13,7 +13,7 @@ const socialIcons = [
   { icon: faGithub, link: "https://github.com" },
   { icon: faInstagram, link: "https://instagram.com" },
   { icon: faLinkedin, link: "https://linkedin.com" },
-  { icon: faBehance, link: "https://behance.net" },
+  { icon: faXTwitter , link: "https://twitter.com" },
 ];
 
 const SocialMedia = () => {
